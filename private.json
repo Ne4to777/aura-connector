@@ -1,0 +1,10 @@
+{
+	"siteUrl": "http://aura.dme.aero.corp",
+	"strategy": "OnpremiseUserCredentials",
+	"domain": "dme",
+	"siteRelativePath": "a",
+	"siteDisk": "v://",
+	"deployPath": "y",
+	"username": "v",
+	"password": "e9437f0fd0a980dd16f27b2eeeb326bb672cce11e9829afc23635f09e49748c6a91dd0ccbd35665615bf32e74902f56fE8NE06ZF2WOJ0Cj0epMhxA=="
+}

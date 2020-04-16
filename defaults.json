@@ -1,0 +1,5 @@
+{
+	"siteUrl": "http://aura.dme.aero.corp",
+	"strategy": "OnpremiseUserCredentials",
+	"domain": "dme"
+}
