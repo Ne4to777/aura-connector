@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Alexey Alexeev",
   "license": "ISC",
   "dependencies": {
     "cpass": "^2.3.0",
