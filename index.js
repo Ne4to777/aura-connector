@@ -11,7 +11,7 @@ const {
 
 const defaults = require('./defaults.json')
 
-const createAuthFile = async path => {
+const createConfigFile = async path => {
 	const err = await checkFile(path).catch(identity)
 	if (err) {
 		const data = {
@@ -43,7 +43,7 @@ const deploy = path => robocopy({
 })
 
 module.exports = {
-	createAuthFile,
+	createConfigFile,
 	updatePassword,
 	deploy
 }
