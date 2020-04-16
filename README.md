@@ -1,3 +1,3 @@
-createConfigFile - create initial file with server config
-updatePassword - update password in config file
-deploy - deploy project to server
+-createConfigFile(path) - create initial file with server config
+-updatePassword(path) - update password in config file
+-deploy(folder) - deploy project to server
