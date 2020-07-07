@@ -18,6 +18,7 @@ const createConfigFile = async path => {
 			siteRelativePath: await question('Application Relative Path'),
 			siteDisk: `${await question('Site WebDAV Disc Label')}://`,
 			deployPath: await question('Deploy Path'),
+			userID: await question('User ID'),
 			username: await question('Username'),
 			password: encode(await question('Password'))
 		}
